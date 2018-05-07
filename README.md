@@ -1,5 +1,5 @@
 # Bike Share Analysis
-This project is an Exploratory Data Analysis (EDA) on US bike share data across 3 major cities (Washington, New York, Chicago), sourced from Motivate.
+This project is an Exploratory Data Analysis (EDA) on US bike share data across 3 major cities (Washington, New York, Chicago), sourced from bike share system provider, Motivate.
 The objective of this project is to utilise Python to gain exposure to the steps taken in the data analysis process.
 This will primarily involve data wrangling and computing descriptive statistics.
 
