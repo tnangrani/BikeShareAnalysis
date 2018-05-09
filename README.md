@@ -15,6 +15,12 @@ The analysis will be performed and presented within a Jupyter notebook (also sav
   - Using descriptive statistics to answer the posed questions;
   - Present insightful data visualisations; and
   - Communicate findings (i.e. infer meaningful observations) in a conclusion statement.
+  
+## Files
+- The "data" subfolder contains the raw BikeShare data file and summary outputs used in the analysis
+- "Bike_Share_Analysis.ipynb" is the submitted Jupyter Notebook file containing the analysis and Python scripts
+- "Bike_Share_Analysis.html" is the HTML version of the Jupyter Notebook file
+- "Bike_Share_Analysis.pdf" is the PDF version of the Jupyter Notebook file
  
 ## Author
 Tuhin Nangrani
